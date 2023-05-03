@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.a {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 45px;
+  color: #0C3010;
+}
+
+.b {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #0C3010;
+}
+
+.c {
+  width: 200px;
+  height: 60px;
+  background: #0C3010;
+  border-radius: 38px;
+  color: aliceblue;
+}
